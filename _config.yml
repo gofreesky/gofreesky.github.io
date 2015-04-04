@@ -1,0 +1,14 @@
+highlighter: pygments
+
+# 作者信息
+author:
+  name: gofreesky
+  email: gofreesky@163.com
+  link: http://gofreesky.com
+  github: http://github.com/gofreesky
+
+# 站点信息
+title: gofreesky的博客
+description: gofreesky的博客
+url: http://gofreesky.com
+language: 中文
